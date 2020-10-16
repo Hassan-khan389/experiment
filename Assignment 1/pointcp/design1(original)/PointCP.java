@@ -76,7 +76,7 @@ public class PointCP
       return xOrRho;
     else 
       return (Math.sqrt(Math.pow(xOrRho, 2) + Math.pow(yOrTheta, 2)));
-  }
+  }// i hate this
   
   public double getTheta()
   {
